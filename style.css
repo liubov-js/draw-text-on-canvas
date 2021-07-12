@@ -1,0 +1,7 @@
+.Canvas {
+    width: 400px;
+	height: 200px;
+	border: 3px solid black;
+	margin: 40px;
+	background-image: url(setka.png);
+}
